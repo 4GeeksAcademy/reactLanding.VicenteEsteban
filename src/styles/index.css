@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.navbar {
+    --bs-navbar-toggler-icon-bg: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMCAzMCc+PHBhdGggc3Ryb2tlPSdyZ2JhKDI1NSwgMjU1LCAyNTUsIDAuNTUpJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1taXRlcmxpbWl0PScxMCcgc3Ryb2tlLXdpZHRoPScyJyBkPSdNNCA3aDIyTTQgMTVoMjJNNCAyM2gyMicvPjwvc3ZnPg==");
+}
+.navbar-toggler {
+    border: var(--bs-border-width) solid rgba(94, 92, 92, 0.541) ;
+}
+.image-size-card {
+    height: 122px;
+    object-fit: cover;
+}
+.fondo{
+    
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ39fWDg2M0rqfJ4ouALOTcaVB7FusWjqehQ&s);
+background-size: cover;
+}
